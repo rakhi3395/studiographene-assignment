@@ -1,0 +1,7 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.banner-color{
+    background-color: #000;
+    color: #fff;
+}
